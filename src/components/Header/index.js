@@ -31,7 +31,7 @@ function Header() {
               </li>
               <li class="menu__item">
                 <a href="" class="menu__link">
-                  Contact{" "}
+                  Contact ;
                 </a>
               </li>
             </ul>
