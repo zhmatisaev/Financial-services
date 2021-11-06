@@ -123,10 +123,8 @@ body {
   flex-wrap: wrap;
   display: flex;
 }
-.menu__item {
-}
 /* отступ будет кроме последного элемента  */
-.menu__item:not(:last-child) {
+*/ .menu__item:not(:last-child) {
   margin: 0px 21px 0px 0px;
 }
 .menu__link {
@@ -711,8 +709,7 @@ body {
     padding: 30px 0;
   }
 }
-.clients__container {
-}
+
 .clients__items {
   display: flex;
   align-items: center;
