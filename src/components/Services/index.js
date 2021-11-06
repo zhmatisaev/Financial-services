@@ -97,7 +97,7 @@ function Services() {
                   {" "}
                   <img src={advantages06} alt="advantages" />{" "}
                 </div>
-                <div class="advantages__value">92%</div>
+                <div class="advantages__value">92</div>
                 <div class="advantages__text">Environmental</div>
               </div>
             </div>
@@ -108,7 +108,7 @@ function Services() {
                   <img src={advantages07} alt="advantages" />{" "}
                 </div>
                 <div class="advantages__value">746 +</div>
-                <div class="advantages__text">Business & Finance</div>
+                <div class="advantages__text">Business Finance</div>
               </div>
             </div>
           </div>
