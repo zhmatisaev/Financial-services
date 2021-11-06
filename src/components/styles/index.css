@@ -212,8 +212,8 @@ body {
 .main-block {
   position: relative;
 }
-.main-block__container {
-}
+/* .main-block__container {
+} */
 .main-block__body {
   padding: 184px 0px 191px 0px;
   position: relative;
@@ -838,8 +838,6 @@ body {
 .getintouch {
   padding: 80px 0 135px 0;
 }
-.getintouch__container {
-}
 
 .getintouch__header {
   margin: 0 0 80px 0;
@@ -1048,9 +1046,6 @@ body {
 }
 .menu-footer__link:hover {
   text-decoration: underline;
-}
-
-.footer__contact {
 }
 .contacts-footer {
   display: flex;
